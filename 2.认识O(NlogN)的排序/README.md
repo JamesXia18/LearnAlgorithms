@@ -12,3 +12,12 @@ cpp:merge_sort.cpp
 
 3、认识归并排序的副产品：小和问题和逆序数
 
+cpp:smll_sort.cpp
+
+4、认识快速排序QuickSort
+
+T(N) = O(NlogN)
+
+最坏:T(N) = O(N^2)
+
+cpp:quick_sort.cpp
